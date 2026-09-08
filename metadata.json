@@ -1,0 +1,8 @@
+{
+  "name": "Hospital Management System",
+  "description": "Enterprise Hospital Information \u0026 Management System featuring clinical workflows, patient profiles, electronic health records, and role-based portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
